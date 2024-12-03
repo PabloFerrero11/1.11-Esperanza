@@ -1,0 +1,23 @@
+img {
+   width: 33%;
+   height: 33%;
+}
+
+
+h1 {
+   background-color: yellow;
+   color:rgb(10, 7, 112);
+   text-align: center;
+   border: 1px solid blue;
+}
+
+
+body{
+   background-color: yellow;
+}
+
+footer{
+   background-color: rgb(10, 7, 112);
+   text-align: center;
+   color: white;
+}
